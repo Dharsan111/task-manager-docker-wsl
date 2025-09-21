@@ -63,7 +63,7 @@ docker compose down
 ## **Technologies Used**
 
 - Python 3.11
-- Flask-Web Framework
+- Flask - Web Framework
 - Docker - Containerization
 - WSL2 - Development Environment
   
