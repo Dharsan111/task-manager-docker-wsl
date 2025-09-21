@@ -7,6 +7,7 @@ A **CRUD-based Task Manager web app** where users can create, update, delete, an
 ## **Features**
 
 - ✅ Create tasks
+- ✏️ Update tasks
 - ❌ Delete tasks
 - 📋 View all tasks
 - 🐳 Dockerized for easy setup
