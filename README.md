@@ -52,7 +52,7 @@ docker compose up --build -d
 
 ## **3. Access the App*
 Open your browser and go to: 
-[http://localhost:5000]
+(http://localhost:5000)
 
 
 
