@@ -29,7 +29,7 @@ task-manager/
 └── README.md
 ```
 ---
-## **Prerequisites*
+## **Prerequisites**
 
 - WSL2(Ubuntu Recommended)
 - Docker CLI installed in WSL
@@ -37,4 +37,22 @@ task-manager/
 - pip package manager
 
 ---
-## **Getting Started*
+## **Getting Started**
+## **1. Clone the Repository*
+```bash
+git clone https://github.com/Dharsan111/task-manager-docker-wsl.git
+cd task-manager-docker-wsl
+```
+## **2. Build and run using Docker Compose*
+```bash
+docker compose up --build -d
+```
+- -d runs containers in detached mode.
+- use docker ps to check running containers
+
+## **3. Access the App*
+Open your browser and go to: 
+[http://localhost:5000]
+
+
+
