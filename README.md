@@ -38,21 +38,34 @@ task-manager/
 
 ---
 ## **Getting Started**
-## **1. Clone the Repository*
+## *1. Clone the Repository*
 ```bash
 git clone https://github.com/Dharsan111/task-manager-docker-wsl.git
 cd task-manager-docker-wsl
 ```
-## **2. Build and run using Docker Compose*
+## *2. Build and run using Docker Compose*
 ```bash
 docker compose up --build -d
 ```
 - -d runs containers in detached mode.
 - use docker ps to check running containers
 
-## **3. Access the App*
+## *3. Access the App*
 Open your browser and go to: 
 (http://localhost:5000)
 
+## *4. Stopping the App*
+```bash
+docker compose down
+```
+---
+
+## **Technologies Used**
+
+- Python 3.11
+- Flask-Web Framework
+- Docker - Containerization
+- WSL2 - Development Environment
+  
 
 
