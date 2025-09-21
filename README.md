@@ -28,3 +28,13 @@ task-manager/
 ├── docker-compose.yml
 └── README.md
 ```
+---
+## **Prerequisites*
+
+- WSL2(Ubuntu Recommended)
+- Docker CLI installed in WSL
+- Python 3.11+
+- pip package manager
+
+---
+## **Getting Started*
